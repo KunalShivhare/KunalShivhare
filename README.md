@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Shivhare</h1>
+
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshivhare&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshivhare" /> </p>
